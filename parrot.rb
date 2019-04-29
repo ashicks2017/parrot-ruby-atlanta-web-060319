@@ -3,7 +3,7 @@
 def #parrot(talk = "Squawk")
 
   puts "This parror know how to talk, and say #{talk} /n."
- talk
+  return talk
  end
 
 parrot
