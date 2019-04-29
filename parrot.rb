@@ -7,4 +7,4 @@ def #parrot(talk = "Squawk")
  
 end
 
-#parrot
+parrot
